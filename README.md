@@ -37,6 +37,14 @@ The website was designed with the main goal of attracting new customers to the r
 - Benefit local food suppliers.
 - Have a presence on the Internet and take advantage of the benefits this provides for marketing purposes.
 
+### Wireframes
+
+- [Home Page](assets/wireframes/majkenskitchen_home.pdf)
+- [Menu Page](assets/wireframes/majkenskitchen_menu.pdf)
+- [About Page](assets/wireframes/majkenskitchen_about.pdf)
+- [Gallery Page](assets/wireframes/majkenskitchen_gallery.pdf)
+- [Contact Page](assets/wireframes/majkenskitchen_contact.pdf)
+
 ## Features
 
 ### Existing Features
