@@ -66,3 +66,11 @@ The website was designed with the main goal of attracting new customers to the r
 
 - Give the customers an option to write a review that will be visible in the customer review section.
 - Give the customers an option to reserve a table directly through a booking system.
+
+## Credits
+
+### Media
+
+#### Images
+
+- The photograph used as a hero image throughout the project was created by [Jay Wennington on Unsplash](https://unsplash.com/photos/N_Y88TWmGwA).
