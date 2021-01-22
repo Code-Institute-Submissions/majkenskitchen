@@ -73,4 +73,4 @@ The website was designed with the main goal of attracting new customers to the r
 
 #### Images
 
-- The photograph used as a hero image throughout the project was created by [Jay Wennington on Unsplash](https://unsplash.com/photos/N_Y88TWmGwA).
+- The photograph used as a hero background image throughout the project was obtained from [Engin Akyurt on Pixabay](https://pixabay.com/photos/casserole-dish-vegetable-tomato-2776735/).
