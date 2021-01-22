@@ -1,0 +1,14 @@
+/* Hero image container */
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.hero {
+    background-image: url(../images/casserole-dish-2776735.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
