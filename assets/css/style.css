@@ -12,3 +12,9 @@ html, body {
     background-repeat: no-repeat;
     height: 100%;
 }
+
+/* Colors */
+
+.nav-bg-red {
+    background-color: #7d030f;
+}
