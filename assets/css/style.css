@@ -13,8 +13,25 @@ html, body {
     height: 100%;
 }
 
-/* Colors */
+/* General settings */
+
+/** Colors **/
 
 .nav-bg-red {
-    background-color: #7d030f;
+    background-color: rgba(125, 3, 15, 0.9);
+}
+
+/** Positioning **/
+
+.hero-heading-pos {
+    position: absolute;
+    top: 25%;
+}
+
+/** Headings **/
+
+.hero-heading h1,
+.hero-heading h2 {
+    color: white;
+    padding: 15px 0px 15px 0;
 }
