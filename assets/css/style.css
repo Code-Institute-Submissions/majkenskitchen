@@ -19,7 +19,7 @@ html, body {
 
 .general-heading-pos {
     position: absolute;
-    top: 20%;
+    top: 10%;
 }
 
 .general-heading h1,
@@ -44,7 +44,7 @@ html, body {
 
 /* Home page */
 
-/** Callout link **/
+/** Callout message **/
 
 .home-callout-pos {
     position: absolute;
