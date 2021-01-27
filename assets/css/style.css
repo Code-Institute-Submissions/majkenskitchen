@@ -7,7 +7,7 @@ html, body {
     margin: 0;
 }
 
-.hero-image {
+.general-hero-image {
     background-image: url(../images/casserole-dish-2776735.jpg);
     background-position: center;
     background-size: cover;
@@ -17,21 +17,29 @@ html, body {
 
 /** Headings **/
 
-.hero-heading-pos {
+.general-heading-pos {
     position: absolute;
     top: 20%;
 }
 
-.hero-heading h1,
-.hero-heading h2 {
+.general-heading h1,
+.general-heading h2 {
     color: white;
     padding: 15px 0px 15px 0;
 }
 
-/** Navigation bar **/
+/** Colors **/
 
-.nav-bg-red {
+.general-bg-red {
     background-color: rgba(125, 3, 15, 0.9);
+    border-color: rgba(125, 3, 15, 0.9);
+}
+
+/** Footer **/
+
+.footer-pos {
+    position: fixed;
+    bottom: 0;
 }
 
 /* Home page */
@@ -45,6 +53,4 @@ html, body {
 
 .home-callout-msg {
     color: white;
-    background-color: rgba(125, 3, 15, 0.9);
-    border-color: rgba(125, 3, 15, 0.9);
 }
