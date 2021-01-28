@@ -17,15 +17,11 @@ html, body {
 
 /** Headings **/
 
-.general-heading-pos {
-    position: absolute;
-    top: 10%;
-}
-
 .general-heading h1,
 .general-heading h2 {
     color: white;
-    padding: 15px 0px 15px 0;
+    padding: 0.2em 0em 0.2em 0em;
+    margin: 1em 0em 1em 0em;
 }
 
 /** Colors **/
@@ -37,9 +33,9 @@ html, body {
 
 /** Footer **/
 
-.footer-pos {
+.general-footer-pos {
     position: fixed;
-    bottom: 0;
+    bottom: 0em;
 }
 
 /* Home page */
@@ -48,7 +44,7 @@ html, body {
 
 .home-callout-pos {
     position: absolute;
-    bottom: 25%;
+    bottom: 30%;
 }
 
 .home-callout-msg {
