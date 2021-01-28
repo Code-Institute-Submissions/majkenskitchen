@@ -67,6 +67,13 @@ The website was designed with the main goal of attracting new customers to the r
 - Give the customers an option to write a review that will be visible in the customer review section.
 - Give the customers an option to reserve a table directly through a booking system.
 
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 4.6
+- Font Awesome
+
 ## Credits
 
 ### Code
