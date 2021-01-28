@@ -20,8 +20,8 @@ html, body {
 .general-heading h1,
 .general-heading h2 {
     color: white;
-    padding: 0.2em 0em 0.2em 0em;
-    margin: 1em 0em 1em 0em;
+    padding-top: 0.2em;
+    margin-top: 0.5em;
 }
 
 /** Colors **/
@@ -33,16 +33,31 @@ html, body {
 
 /** Footer **/
 
-.general-footer-pos {
+.general-footer {
     position: fixed;
     bottom: 0em;
+}
+
+.general-copyright {
+    color: #fff;
+}
+
+.general-social ul {
+    float: right;
+    margin: 0;
+}
+
+.general-social i {
+    color: #fff;
+    padding: 0.5em 0.5em 0.5em 0.5em ;
+    margin: 0.5em 0.5em 0.5em 0.5em ;
 }
 
 /* Home page */
 
 /** Callout message **/
 
-.home-callout-pos {
+.home-callout {
     position: absolute;
     bottom: 30%;
 }
