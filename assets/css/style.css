@@ -38,19 +38,24 @@ html, body {
     bottom: 0em;
 }
 
-.general-copyright {
-    color: #fff;
+.general-copyright ul {
+
+    float: left;
+    margin: 0;
+    padding: 0;
 }
 
 .general-social ul {
     float: right;
     margin: 0;
+    padding: 0;
 }
 
-.general-social i {
+.general-footer i,
+.general-footer p {
     color: #fff;
-    padding: 0.5em 0.5em 0.5em 0.5em ;
-    margin: 0.5em 0.5em 0.5em 0.5em ;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin: 0.5em 0.5em 0.5em 0.5em;
 }
 
 /*** Override Bootstrap underline on hovered a elements ***/
