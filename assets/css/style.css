@@ -53,6 +53,12 @@ html, body {
     margin: 0.5em 0.5em 0.5em 0.5em ;
 }
 
+/*** Override Bootstrap underline on hovered a elements ***/
+
+.general-social a:hover {
+    text-decoration: none;
+}
+
 /* Home page */
 
 /** Callout message **/
