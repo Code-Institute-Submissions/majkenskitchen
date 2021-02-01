@@ -4,7 +4,7 @@
 
 html, body {
     height: 100%;
-    margin: 0;
+    margin: 0em;
 }
 
 .general-hero-image {
@@ -20,8 +20,8 @@ html, body {
 .general-heading h1,
 .general-heading h2 {
     color: white;
-    padding-top: 0.2em;
-    margin-top: 0.5em;
+    padding-top: 0.4em;
+    margin-top: 0.4em;
 }
 
 /** Colors **/
@@ -39,23 +39,40 @@ html, body {
 }
 
 .general-copyright ul {
-
-    float: left;
-    margin: 0;
-    padding: 0;
+    margin: 0em;
+    padding: 0em;
 }
 
 .general-social ul {
-    float: right;
-    margin: 0;
-    padding: 0;
+    margin: 0em;
+    padding: 0em;
 }
 
-.general-footer i,
-.general-footer p {
+/*** Set line-height to 100% for a centered position ***/
+
+.general-copyright i,
+.general-copyright p {
+    color: #fff;
+    padding: 0.5em 0.1em 0.5em 0.1em;
+    margin: 0.5em 0.1em 0.5em 0.1em;
+    line-height: 100%;
+}
+
+.general-copyright li:first-child i {
+    padding-left: 0.2em;
+    margin-left: 0.2em;
+}
+
+.general-social i {
     color: #fff;
     padding: 0.5em 0.5em 0.5em 0.5em;
     margin: 0.5em 0.5em 0.5em 0.5em;
+    line-height: 100%;
+}
+
+.general-social li:last-child i {
+    padding-right: 0.2em;
+    margin-right: 0.2em;
 }
 
 /*** Override Bootstrap underline on hovered a elements ***/
