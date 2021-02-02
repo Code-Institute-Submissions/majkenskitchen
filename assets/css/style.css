@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Kalam:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Kalam:wght@300;400;700&family=Raleway:wght@400;500;600;700&display=swap');
 
 /* General settings */
 
@@ -15,6 +15,7 @@ html, body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+    position: relative;
 }
 
 /** Navigation bar **/
@@ -31,7 +32,9 @@ html, body {
 
 .general-heading {
     position: relative;
-    margin-top: 5%;
+    top: 15%;
+    margin-top: 2em;
+    text-shadow: 2px 2px 2px #000;
 }
 
 .general-heading h1,
@@ -41,6 +44,7 @@ html, body {
     margin-top: 0.4em;
     font-family: 'Kalam', cursive;
     font-size: 3em;
+    text-transform: uppercase;
 }
 
 /** Colors **/
@@ -72,9 +76,14 @@ html, body {
 .general-copyright i,
 .general-copyright p {
     color: #fff;
-    padding: 0.5em 0.1em 0.5em 0.1em;
-    margin: 0.5em 0.1em 0.5em 0.1em;
+    padding: 0.5em 0.02em 0.5em 0.02em;
+    margin: 0.5em 0.02em 0.5em 0.02em;
     line-height: 100%;
+}
+
+.general-copyright p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
 }
 
 .general-copyright li:first-child i {
@@ -105,8 +114,8 @@ html, body {
 /** Callout message **/
 
 .home-callout {
-    position: relative;
-    top: 15%;
+    position: absolute;
+    bottom: 25%;
 }
 
 .home-callout-msg {
