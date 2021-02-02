@@ -73,6 +73,7 @@ The website was designed with the main goal of attracting new customers to the r
 - CSS3
 - Bootstrap 4.6
 - Font Awesome
+- Google Fonts
 
 ## Credits
 

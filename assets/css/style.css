@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Kalam:wght@300;400;700&display=swap');
+
 /* General settings */
 
 /** Hero image container **/
@@ -15,13 +17,30 @@ html, body {
     height: 100%;
 }
 
+/** Navigation bar **/
+
+.general-header nav a {
+    font-family: 'Caveat', cursive;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
 /** Headings **/
+
+/*** General heading container ***/
+
+.general-heading {
+    position: relative;
+    margin-top: 5%;
+}
 
 .general-heading h1,
 .general-heading h2 {
-    color: white;
+    color: #fff;
     padding-top: 0.4em;
     margin-top: 0.4em;
+    font-family: 'Kalam', cursive;
+    font-size: 3em;
 }
 
 /** Colors **/
@@ -86,10 +105,12 @@ html, body {
 /** Callout message **/
 
 .home-callout {
-    position: absolute;
-    bottom: 30%;
+    position: relative;
+    top: 15%;
 }
 
 .home-callout-msg {
-    color: white;
+    color: #fff;
+    font-family: 'Kalam', cursive;
+    font-size: 1.2em;
 }
