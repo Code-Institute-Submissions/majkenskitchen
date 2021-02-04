@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Kalam:wght@300;400;700&family=Raleway:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&family=Raleway:wght@400;500;600;700&display=swap');
 
 /* General settings */
 
@@ -30,7 +30,6 @@ html, body {
 
 .general-heading {
     margin: 5em 0em 5em 0em;
-    text-shadow: 2px 2px 2px #000;
 }
 
 .general-heading h1,
@@ -38,9 +37,11 @@ html, body {
     color: #fff;
     padding-top: 0.4em;
     margin-top: 0.4em;
-    font-family: 'Kalam', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 3em;
+    font-weight: 700;
     text-transform: uppercase;
+    text-shadow: 2px 2px 2px #000;
 }
 
 /** Colors **/
@@ -115,6 +116,6 @@ html, body {
 
 .home-callout-msg {
     color: #fff;
-    font-family: 'Kalam', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.2em;
 }
