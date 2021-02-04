@@ -2,20 +2,18 @@
 
 /* General settings */
 
-/** Hero image container **/
+/** Hero image and flex settings **/
 
 html, body {
-    height: 100%;
+    min-height: 100vh;
     margin: 0em;
-}
-
-.general-hero-image {
+    padding: 0em;
     background-image: url(../images/casserole-dish-2776735_1920.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100%;
-    position: relative;
+    display: flex;
+    flex-direction: column;
 }
 
 /** Navigation bar **/
@@ -31,9 +29,7 @@ html, body {
 /*** General heading container ***/
 
 .general-heading {
-    position: relative;
-    top: 15%;
-    margin-top: 2em;
+    margin: 5em 0em 5em 0em;
     text-shadow: 2px 2px 2px #000;
 }
 
@@ -57,8 +53,8 @@ html, body {
 /** Footer **/
 
 .general-footer {
-    position: fixed;
-    bottom: 0em;
+    margin-top: auto;
+    margin-bottom: 0em;
 }
 
 .general-copyright ul {
@@ -114,8 +110,7 @@ html, body {
 /** Callout message **/
 
 .home-callout {
-    position: absolute;
-    bottom: 25%;
+    margin: 5em 0em 5em 0em;
 }
 
 .home-callout-msg {
