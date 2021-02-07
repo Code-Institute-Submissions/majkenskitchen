@@ -70,6 +70,12 @@ html, body {
     border-color: rgba(125, 3, 15, 0.9);
 }
 
+/** Section **/
+
+.general-section {
+    margin-bottom: 2em;
+}
+
 /** Footer **/
 
 .general-copyright ul {
@@ -124,13 +130,11 @@ html, body {
 
 /** Callout message **/
 
-.home-callout {
-    margin-bottom: 2em;
-}
-
 .home-callout-msg {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     font-weight: 500;
 }
+
+
