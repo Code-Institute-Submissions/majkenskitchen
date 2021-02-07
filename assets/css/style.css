@@ -17,12 +17,17 @@ html, body {
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
 }
 
 /** Header **/
 
 /*** Navigation bar ***/
+
+.general-header {
+    width: 100vw;
+}
 
 .general-header nav a {
     font-family: 'Caveat', cursive;
@@ -61,11 +66,6 @@ html, body {
 }
 
 /** Footer **/
-
-.general-footer {
-    margin-top: auto;
-    margin-bottom: 0em;
-}
 
 .general-copyright ul {
     margin: 0em;
@@ -120,22 +120,11 @@ html, body {
 /** Callout message **/
 
 .home-callout {
-    margin: 2em 0em 3em 0em;
+    margin-bottom: 2em;
 }
 
 .home-callout-msg {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-size: 1em;
-}
-
-/* Media queries */
-
-@media screen and (min-width: 768px) {
-    .home-callout {
-        margin: 7em 0em 7em 0em;
-    }
-    .general-heading {
-        margin: 7em 0em 7em 0em;
-    }
 }
