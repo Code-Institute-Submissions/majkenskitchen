@@ -2,12 +2,16 @@
 
 /* General settings */
 
-/** Hero image and flex settings **/
-
 html, body {
-    min-height: 100vh;
+    height: 100vh;
     margin: 0em;
     padding: 0em;
+}
+
+/** Hero image and flex settings **/
+
+.general-hero {
+    min-height: 100vh;
     background-image: url(../images/casserole-dish-2776735_1920.jpg);
     background-position: center;
     background-size: cover;
@@ -16,7 +20,9 @@ html, body {
     flex-direction: column;
 }
 
-/** Navigation bar **/
+/** Header **/
+
+/*** Navigation bar ***/
 
 .general-header nav a {
     font-family: 'Caveat', cursive;
@@ -24,24 +30,27 @@ html, body {
     font-weight: 700;
 }
 
-/** Headings **/
-
-/*** General heading container ***/
+/*** Headings ***/
 
 .general-heading {
-    margin: 5em 0em 5em 0em;
+    margin: 3em 0em 2em 0em;
 }
 
 .general-heading h1,
 .general-heading h2 {
     color: #fff;
-    padding-top: 0.4em;
-    margin-top: 0.4em;
     font-family: 'Montserrat', sans-serif;
-    font-size: 3em;
     font-weight: 700;
     text-transform: uppercase;
     text-shadow: 2px 2px 2px #000;
+}
+
+.general-heading h1 {
+    font-size: 3em;
+}
+
+.general-heading h2 {
+    font-size: 2em;
 }
 
 /** Colors **/
@@ -111,11 +120,22 @@ html, body {
 /** Callout message **/
 
 .home-callout {
-    margin: 5em 0em 5em 0em;
+    margin: 2em 0em 3em 0em;
 }
 
 .home-callout-msg {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.2em;
+    font-size: 1em;
+}
+
+/* Media queries */
+
+@media screen and (min-width: 768px) {
+    .home-callout {
+        margin: 7em 0em 7em 0em;
+    }
+    .general-heading {
+        margin: 7em 0em 7em 0em;
+    }
 }
