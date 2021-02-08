@@ -89,3 +89,6 @@ The website was designed with the main goal of attracting new customers to the r
 
 - The photograph used as a hero background image throughout the project was obtained from [Engin Akyurt on Pixabay](https://pixabay.com/photos/casserole-dish-vegetable-tomato-2776735/).
 - Photograph 1 in the gallery was obtained from [Engin Akyurt on Pixabay](https://pixabay.com/photos/table-wine-invite-food-champagne-2439953/).
+- Photograph 2 in the gallery was obtained from [Marina Davydenko on Pixabay](https://pixabay.com/photos/flour-eggs-pie-holiday-home-4991407/).
+- Photograph 3 in the gallery was obtained from [congerdesign on Pixabay](https://pixabay.com/photos/vegetables-vegetable-basket-harvest-752153/).
+- Photograph 4 in the gallery was obtained from [Free-Photos on Pixabay](https://pixabay.com/photos/restaurant-food-lunch-dinner-691397/).
