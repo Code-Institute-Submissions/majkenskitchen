@@ -137,4 +137,24 @@ html, body {
     font-weight: 500;
 }
 
+/* Menu page */
+
+/** Dishes and beverages section **/
+
+.menu-dish-beverage h2 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+.menu-dish-beverage p {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    padding-top: 1.5em;
+}
+
 

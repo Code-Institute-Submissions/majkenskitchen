@@ -81,7 +81,7 @@ The website was designed with the main goal of attracting new customers to the r
 
 - The [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) framework is used in the project for the responsive grid system, navigation bar and carousel slideshow.
 - Code for the hero image background came from this [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_full_page) post.
-- Code for darkening the hero image background came from [here](https://css-tricks.com/design-considerations-text-images/).
+- Code for darkening the hero image background came from [CSS-Tricks](https://css-tricks.com/design-considerations-text-images/).
 
 ### Media
 
