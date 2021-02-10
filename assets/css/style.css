@@ -157,4 +157,16 @@ html, body {
     padding-top: 1.5em;
 }
 
+/*** Use the border-radius trick to get the images round  ***/
 
+.menu-dish-beverage .menu-round-img {
+    margin-top: 1.5em;
+    height: 7em;
+    width: 7em;
+    border-radius: 50%;
+    border: 0.1em solid white;
+    background-image: url(../images/pizza-2810589_640.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
