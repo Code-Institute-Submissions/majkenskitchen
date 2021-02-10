@@ -163,6 +163,7 @@ html, body {
 .menu-dish-beverage p {
     font-weight: 500;
     padding-top: 0.5em;
+    overflow-wrap: break-word;
 }
 
 /*** Use the border-radius trick to get the images round  ***/
@@ -195,7 +196,7 @@ html, body {
 }
 
 .menu-dish-beverage .menu-beer-img {
-    background-image: url(../images/two-types-of-beer-1978012_640.jpg);
+    background-image: url(../images/beer-2288121_640.jpg);
 }
 
 .menu-dish-beverage .menu-softdrink-img {

@@ -96,5 +96,5 @@ The website was designed with the main goal of attracting new customers to the r
 - The photograph of the pasta dish on the menu page was obtained from [RitaE on Pixabay](https://pixabay.com/photos/tortellini-noodles-pasta-italian-3137649/).
 - The photograph of the salad on the menu page was obtained from [eloneo on Pixabay](https://pixabay.com/photos/salad-healthy-food-tomato-kitchen-1264107/).
 - The photograph of the wine bottle on the menu page was obtained from [congerdesign on Pixabay](https://pixabay.com/photos/wine-red-wine-glass-drink-alcohol-541922/).
-- The photograph of the beer glasses on the menu page was obtained from [Photo Mix on Pixabay](https://pixabay.com/photos/two-types-of-beer-dark-clear-1978012/).
+- The photograph of the beer glass on the menu page was obtained from [Alexas_Fotos on Pixabay](https://pixabay.com/photos/beer-beer-garden-thirst-glass-mug-2288121/).
 - The photograph of the soft drinks on the menu page was obtained from [Photo Mix on Pixabay](https://pixabay.com/photos/drink-glass-lime-mint-cold-fresh-1532300/).
