@@ -94,3 +94,7 @@ The website was designed with the main goal of attracting new customers to the r
 - Photograph 4 in the gallery was obtained from [Free-Photos on Pixabay](https://pixabay.com/photos/restaurant-food-lunch-dinner-691397/).
 - The photograph of the pizzas on the menu page was obtained from [Salvatore Monetti on Pixabay](https://pixabay.com/photos/pizza-pizzeria-food-alimentari-2810589/).
 - The photograph of the pasta dish on the menu page was obtained from [RitaE on Pixabay](https://pixabay.com/photos/tortellini-noodles-pasta-italian-3137649/).
+- The photograph of the salad on the menu page was obtained from [eloneo on Pixabay](https://pixabay.com/photos/salad-healthy-food-tomato-kitchen-1264107/).
+- The photograph of the wine bottle on the menu page was obtained from [congerdesign on Pixabay](https://pixabay.com/photos/wine-red-wine-glass-drink-alcohol-541922/).
+- The photograph of the beer glasses on the menu page was obtained from [Photo Mix on Pixabay](https://pixabay.com/photos/two-types-of-beer-dark-clear-1978012/).
+- The photograph of the soft drinks on the menu page was obtained from [Photo Mix on Pixabay](https://pixabay.com/photos/drink-glass-lime-mint-cold-fresh-1532300/).

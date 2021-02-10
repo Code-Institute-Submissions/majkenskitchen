@@ -141,20 +141,28 @@ html, body {
 
 /** Dishes and beverages section **/
 
-.menu-dish-beverage h2 {
+.menu-dish-beverage {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
+}
+
+.menu-dish-beverage h2 {
     font-size: 2em;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
 
+.menu-dish-beverage h3 {
+    font-size: 1.5em;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    padding-top: 0.5em;
+}
+
 .menu-dish-beverage p {
-    color: #fff;
-    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    padding-top: 1.5em;
+    padding-top: 0.5em;
 }
 
 /*** Use the border-radius trick to get the images round  ***/
@@ -176,4 +184,20 @@ html, body {
 
 .menu-dish-beverage .menu-pasta-img {
     background-image: url(../images/tortellini-3137649_640.jpg);
+}
+
+.menu-dish-beverage .menu-salad-img {
+    background-image: url(../images/salad-1264107_640.jpg);
+}
+
+.menu-dish-beverage .menu-wine-img {
+    background-image: url(../images/wine-541922_640.jpg);
+}
+
+.menu-dish-beverage .menu-beer-img {
+    background-image: url(../images/two-types-of-beer-1978012_640.jpg);
+}
+
+.menu-dish-beverage .menu-softdrink-img {
+    background-image: url(../images/drink-1532300_640.jpg);
 }
