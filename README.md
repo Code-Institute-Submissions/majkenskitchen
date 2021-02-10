@@ -93,3 +93,4 @@ The website was designed with the main goal of attracting new customers to the r
 - Photograph 3 in the gallery was obtained from [congerdesign on Pixabay](https://pixabay.com/photos/vegetables-vegetable-basket-harvest-752153/).
 - Photograph 4 in the gallery was obtained from [Free-Photos on Pixabay](https://pixabay.com/photos/restaurant-food-lunch-dinner-691397/).
 - The photograph of the pizzas on the menu page was obtained from [Salvatore Monetti on Pixabay](https://pixabay.com/photos/pizza-pizzeria-food-alimentari-2810589/).
+- The photograph of the pasta dish on the menu page was obtained from [RitaE on Pixabay](https://pixabay.com/photos/tortellini-noodles-pasta-italian-3137649/).
