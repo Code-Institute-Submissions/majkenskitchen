@@ -219,3 +219,9 @@ html, body {
 .general-section .about-img-inger {
     background-image: url(../images/inger.jpg);
 }
+
+/** Contact page **/
+
+.general-section a {
+    color: #fff;
+}
