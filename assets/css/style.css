@@ -162,7 +162,7 @@ html, body {
     overflow-wrap: break-word;
 }
 
-/** Use the border-radius trick to get the images round  **/
+/** Use the border-radius trick to make the images round  **/
 
 .general-section .menu-img,
 .general-section .about-img {

@@ -98,4 +98,4 @@ The website was designed with the main goal of attracting new customers to the r
 - The photograph of the wine bottle on the menu page was obtained from [congerdesign on Pixabay](https://pixabay.com/photos/wine-red-wine-glass-drink-alcohol-541922/).
 - The photograph of the beer glass on the menu page was obtained from [Alexas_Fotos on Pixabay](https://pixabay.com/photos/beer-beer-garden-thirst-glass-mug-2288121/).
 - The photograph of the soft drinks on the menu page was obtained from [Photo Mix on Pixabay](https://pixabay.com/photos/drink-glass-lime-mint-cold-fresh-1532300/).
-- The photographs of customers on the about page was obtained from the developer's private photo album.
+- The photographs of customers on the about page was obtained from the developer's private photo album. All customers have approved the use of these photographs.
