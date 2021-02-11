@@ -161,8 +161,9 @@ html, body {
 }
 
 .menu-dish-beverage p {
-    font-weight: 500;
-    padding-top: 0.5em;
+    font-size: 1em;
+    font-weight: 400;
+    padding-top: 0.2em;
     overflow-wrap: break-word;
 }
 
