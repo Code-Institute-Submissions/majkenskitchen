@@ -73,6 +73,8 @@ html, body {
 /** Section **/
 
 .general-section {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
     margin-bottom: 2em;
 }
 
@@ -137,40 +139,34 @@ html, body {
     font-weight: 500;
 }
 
-/* Menu page */
+/* Menu and About page */
 
-/** Dishes and beverages section **/
-
-.menu-dish-beverage {
-    color: #fff;
-    font-family: 'Montserrat', sans-serif;
-}
-
-.menu-dish-beverage h2 {
+.general-section h2 {
     font-size: 2em;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
 
-.menu-dish-beverage h3 {
+.general-section h3 {
     font-size: 1.5em;
     font-weight: 700;
     letter-spacing: 0.2em;
     padding-top: 0.5em;
 }
 
-.menu-dish-beverage p {
+.general-section p {
     font-size: 1em;
-    font-weight: 400;
+    font-weight: 500;
     padding-top: 0.2em;
     overflow-wrap: break-word;
 }
 
-/*** Use the border-radius trick to get the images round  ***/
+/** Use the border-radius trick to get the images round  **/
 
-.menu-dish-beverage .menu-img {
-    margin-top: 1.5em;
+.general-section .menu-img,
+.general-section .about-img {
+    margin-top: 1.2em;
     height: 7em;
     width: 7em;
     border-radius: 50%;
@@ -180,26 +176,38 @@ html, body {
     background-repeat: no-repeat;
 }
 
-.menu-dish-beverage .menu-pizza-img {
+/** Menu page **/
+
+/*** Dishes and beverages section ***/
+
+.general-section .menu-img-pizza {
     background-image: url(../images/pizza-2810589_640.jpg);
 }
 
-.menu-dish-beverage .menu-pasta-img {
+.general-section .menu-img-pasta {
     background-image: url(../images/tortellini-3137649_640.jpg);
 }
 
-.menu-dish-beverage .menu-salad-img {
+.general-section .menu-img-salad {
     background-image: url(../images/salad-1264107_640.jpg);
 }
 
-.menu-dish-beverage .menu-wine-img {
+.general-section .menu-img-wine {
     background-image: url(../images/wine-541922_640.jpg);
 }
 
-.menu-dish-beverage .menu-beer-img {
+.general-section .menu-img-beer {
     background-image: url(../images/beer-2288121_640.jpg);
 }
 
-.menu-dish-beverage .menu-softdrink-img {
+.general-section .menu-img-softdrink {
     background-image: url(../images/drink-1532300_640.jpg);
+}
+
+/** About page **/
+
+/*** Reviews section ***/
+
+.general-section .about-img-anna {
+    background-image: url(../images/anna.jpg);
 }
