@@ -31,7 +31,7 @@ html, body {
 /*** Navigation bar ***/
 
 .general-header {
-    width: 100vw;
+    width: 100%;
 }
 
 .general-header nav a {
@@ -152,7 +152,8 @@ html, body {
     font-size: 1.5em;
     font-weight: 700;
     letter-spacing: 0.2em;
-    padding-top: 0.5em;
+    padding-top: 1em;
+    margin-bottom: 1em;
 }
 
 .general-section p {
@@ -239,4 +240,16 @@ html, body {
 .contact-form button {
     display: block;
     margin: 0 auto 0 auto;
+}
+
+.contact-map-container {
+    height: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.contact-map iframe {
+    width: 75%;
 }
