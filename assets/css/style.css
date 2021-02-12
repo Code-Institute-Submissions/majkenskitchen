@@ -231,3 +231,12 @@ html, body {
     margin-bottom: 1rem;
     padding-top: 0.2em;
 }
+
+.contact-form form {
+    width: 75%;
+}
+
+.contact-form button {
+    display: block;
+    margin: 0 auto 0 auto;
+}
