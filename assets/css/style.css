@@ -222,6 +222,12 @@ html, body {
 
 /** Contact page **/
 
-.general-section a {
+/*** Use the same settings for links and paragraphs ***/
+
+.general-section .contact-email a {
+    display: block;
+    font-weight: 500;
     color: #fff;
+    margin-bottom: 1rem;
+    padding-top: 0.2em;
 }
