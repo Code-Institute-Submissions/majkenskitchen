@@ -37,6 +37,12 @@ The website was designed with the main goal of attracting new customers to the r
 - Benefit local food suppliers.
 - Have a presence on the Internet and take advantage of the benefits this provides for marketing purposes.
 
+### Design
+
+#### Inspiration
+
+- Inspiration for some of the design choices came from this [ucraft](https://preview-to-thryliko.ucraft.site/) sample website.
+
 ### Wireframes
 
 - [Home Page](assets/wireframes/majkenskitchen_home.pdf)
@@ -69,19 +75,28 @@ The website was designed with the main goal of attracting new customers to the r
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- Bootstrap 4.6
-- Font Awesome
-- Google Fonts
+### Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries and Software Used
+- [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 ## Credits
 
 ### Code
 
-- The [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) framework is used in the project for the responsive grid system, navigation bar and carousel slideshow.
+- The [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) framework is used in the project for the responsive grid system, navigation bar, contact form and carousel slideshow.
 - Code for the hero image background came from this [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_full_page) post.
 - Code for darkening the hero image background came from [CSS-Tricks](https://css-tricks.com/design-considerations-text-images/).
+- [This guide from CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) was a great help for me to better understand flexbox.
+
+### Content
+
+- All text content on the site was written by the developer.
 
 ### Media
 
