@@ -43,6 +43,14 @@ The website was designed with the main goal of attracting new customers to the r
 
 - Inspiration for some of the design choices came from this [ucraft](https://preview-to-thryliko.ucraft.site/) sample website.
 
+#### Background
+
+- The image of the hero was chosen to capture the customer's attention and to convey a message that this is a restaurant with good healthy food. The background is darkened to make the text content more visible on the site. 
+
+#### Colours
+
+- The navigation bar, footer and buttons are coloured with a shade of red to match the colour of the cherry tomatoes. All text content is coloured white to be clearly visible against the dark background.
+
 ### Wireframes
 
 - [Home Page](assets/wireframes/majkenskitchen_home.pdf)
