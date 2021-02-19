@@ -57,6 +57,11 @@ The website was designed with the main goal of attracting new customers to the r
 - The **Caveat** font is used for the brand and menu options in the navigation bar. The font is elegant, which fits well considering that it is an exclusive dining experience that the website wants to convey. As a fallback the cursive font is used if the primary font doesn't load correctly.
 - At first, the idea was to use a cursive font for the content as well, but the choice fell on the **Montserrat** font because it is clean and easier to read.
 
+#### Images
+
+- All images of dishes and beverages are chosen to capture the interest of potential customers and hopefully get them to reserve a table.
+- The images in the gallery are chosen to give the customer a feeling of home.
+
 ### Wireframes
 
 - [Home Page](assets/wireframes/majkenskitchen_home.pdf)
