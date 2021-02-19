@@ -45,11 +45,17 @@ The website was designed with the main goal of attracting new customers to the r
 
 #### Background
 
-- The image of the hero was chosen to capture the customer's attention and to convey a message that this is a restaurant with good healthy food. The background is darkened to make the text content more visible on the site. 
+- The hero image background was chosen to capture the customer's attention and to convey a message that this is a restaurant with good healthy food. The background is darkened to make the text content more visible on the site. 
 
 #### Colours
 
-- The navigation bar, footer and buttons are coloured with a shade of red to match the colour of the cherry tomatoes. All text content is coloured white to be clearly visible against the dark background.
+- The navigation bar, footer and buttons are coloured with a shade of red to match the colour of the cherry tomatoes. 
+- All text content is coloured white to be clearly visible against the dark background.
+
+#### Fonts
+
+- The **Caveat** font is used for the brand and menu options in the navigation bar. The font is elegant, which fits well considering that it is an exclusive dining experience that the website wants to convey. As a fallback the cursive font is used if the primary font doesn't load correctly.
+- At first, the idea was to use a cursive font for the content as well, but the choice fell on the **Montserrat** font because it is clean and easier to read.
 
 ### Wireframes
 
