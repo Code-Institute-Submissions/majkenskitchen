@@ -81,7 +81,7 @@ The website was designed with the main goal of attracting new customers to the r
 - Customer reviews can be seen on the about page.
 - View photos from the restaurant in the gallery. 
 - Control which photo is shown in the gallery by using next/previous buttons.
-- Contact information and instructions on how to reserve a table.
+- Contact information and a form for reserving a table.
 - Links to social media can be seen in the footer on every page.
 - Works well on mobile, tablet and computer.
 
