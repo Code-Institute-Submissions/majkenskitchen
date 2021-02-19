@@ -101,8 +101,21 @@ The website was designed with the main goal of attracting new customers to the r
 
 ### Frameworks, Libraries and Software Used
 - [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+    - Bootstrap is widely used on the site to simplify the creation of a responsive site. See more information in the credits section below.
 - [Font Awesome](https://fontawesome.com/)
+    - Icons from Font Awesome is used for the social media links.
 - [Google Fonts](https://fonts.google.com/)
+    - The fonts used on the site are imported from Google Fonts.
+- [jQuery](https://jquery.com/)
+    - jQuery is a library that was imported with Bootstrap and makes the navigation bar responsive on all devices.
+- [Git](https://git-scm.com/)
+    - Git is used for version control of the project code.
+- [Github](https://github.com/)
+    - Github is used to store the project code.
+- [Gitpod](https://gitpod.io/)
+    - The developer used Gitpod as the primary development environment during the project.
+- [Balsamiq](https://balsamiq.com/)
+    - Balsamiq was used during the work in the skeleton plane to create the wireframes for the project.
 
 ## Credits
 
