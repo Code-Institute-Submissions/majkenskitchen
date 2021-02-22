@@ -212,6 +212,24 @@ html, body {
     background-image: url(../images/drink-1532300_640.jpg);
 }
 
+/**** Class for notification of a new dish ****/
+
+.menu-notification {
+    margin-top: 1em;
+    -webkit-transform: rotate(-15deg);
+    -moz-transform: rotate(-15deg);
+    -ms-transform: rotate(-15deg);
+    -o-transform: rotate(-15deg);
+    transform: rotate(-15deg);
+}
+
+/**** This class is used to take up space and make the dishes align vertically ****/
+
+.menu-notification-hidden {
+    margin-top: 1em;
+    visibility: hidden;
+}
+
 /** About page **/
 
 /*** Reviews section ***/
