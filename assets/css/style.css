@@ -63,7 +63,7 @@ html, body {
     font-size: 2em;
 }
 
-/** Colors **/
+/** Colours **/
 
 .general-bg-red {
     background-color: rgba(125, 3, 15, 0.9);
@@ -137,6 +137,7 @@ html, body {
     font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     font-weight: 500;
+    letter-spacing: 0.1em;
 }
 
 /*** Override Bootstrap colour when hovered ***/
@@ -243,9 +244,19 @@ html, body {
     width: 75%;
 }
 
+/*** Use the same style as the button on the home page ***/
+
 .contact-form button {
     display: block;
     margin: 0 auto 0 auto;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+}
+
+.contact-form button:hover {
+    color: #fff;
 }
 
 .contact-map-container {
