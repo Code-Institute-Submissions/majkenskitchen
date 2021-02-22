@@ -104,6 +104,8 @@ The website was designed with the main goal of attracting new customers to the r
     - Bootstrap is widely used on the site to simplify the creation of a responsive site. See more information in the credits section below.
 - [Font Awesome](https://fontawesome.com/)
     - Icons from Font Awesome is used for the social media links.
+- [Hover.css](https://github.com/IanLunn/Hover)
+    - Hover.css was used on the home page to add a pulse effect when hovering the callout message button.
 - [Google Fonts](https://fonts.google.com/)
     - The fonts used on the site are imported from Google Fonts.
 - [jQuery](https://jquery.com/)

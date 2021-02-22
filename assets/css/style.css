@@ -67,7 +67,7 @@ html, body {
 
 .general-bg-red {
     background-color: rgba(125, 3, 15, 0.9);
-    border-color: rgba(125, 3, 15, 0.9);
+    border-color: rgba(0, 0, 0, 0.5);
 }
 
 /** Section **/
@@ -137,6 +137,12 @@ html, body {
     font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     font-weight: 500;
+}
+
+/*** Override Bootstrap colour when hovered ***/
+
+.home-callout-msg:hover {
+    color: #fff;
 }
 
 /* Menu and About page */
