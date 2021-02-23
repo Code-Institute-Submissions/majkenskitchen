@@ -121,6 +121,23 @@ The website was designed with the main goal of attracting new customers to the r
 
 ## Testing
 
+### Validation Services
+
+The services below were used to validate the HTML and CSS code in this project.
+
+- [W3C Markup Validation Service](https://validator.w3.org/)
+    - Results
+        - [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2F)
+        - [Menu Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fmenu.html)
+        - [About Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fabout.html)
+        - [Gallery Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fgallery.html)
+        - [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fcontact.html)
+
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+    - Results
+        - The CSS code was validated by pasting the contents from [style.css](assets/css/style.css) into the direct input tab on the validation page.
+        - Apart from warnings regarding vendor specific extensions the CSS code generated no errors when it was validated.
+
 ## Credits
 
 ### Code
