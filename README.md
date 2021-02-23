@@ -103,7 +103,7 @@ The website was designed with the main goal of attracting new customers to the r
 - [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
     - Bootstrap is widely used on the site to simplify the creation of a responsive site. See more information in the credits section below.
 - [Font Awesome](https://fontawesome.com/)
-    - Icons from Font Awesome is used for the social media links.
+    - Icons from Font Awesome is used for the social media links and the notification on the menu page.
 - [Hover.css](https://github.com/IanLunn/Hover)
     - Hover.css was used on the home page to add a pulse effect when hovering the callout message button.
 - [Google Fonts](https://fonts.google.com/)
@@ -118,6 +118,8 @@ The website was designed with the main goal of attracting new customers to the r
     - The developer used Gitpod as the primary development environment during the project.
 - [Balsamiq](https://balsamiq.com/)
     - Balsamiq was used during the work in the skeleton plane to create the wireframes for the project.
+
+## Testing
 
 ## Credits
 
