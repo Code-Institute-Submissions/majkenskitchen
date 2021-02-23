@@ -246,9 +246,20 @@ html, body {
     background-image: url(../images/inger.jpg);
 }
 
-/** Contact page **/
+/* Gallery page */
 
-/*** Use the same settings for links and paragraphs ***/
+.general-section .gallery-heading h2 {
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    padding-top: 1em;
+    margin-bottom: 1em;
+    text-transform: none;
+}
+
+/* Contact page */
+
+/** Use the same settings for links and paragraphs **/
 
 .general-section .contact-email a {
     display: block;
@@ -262,7 +273,7 @@ html, body {
     width: 75%;
 }
 
-/*** Use the same style as the button on the home page ***/
+/** Use the same style as the button on the home page **/
 
 .contact-form button {
     display: block;
