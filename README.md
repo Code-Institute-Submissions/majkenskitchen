@@ -123,6 +123,38 @@ The website was designed with the main goal of attracting new customers to the r
 
 ## Testing
 
+### Testing User Stories For New Customers
+
+- As a potential new customer, I want to find information about an environmentally friendly restaurant.
+    - Test Case
+- As a potential new customer, I want to see a menu of the dishes and beverages.
+    - Test Case
+- As a potential new customer, I want to see customer reviews.
+    - Test Case
+- As a potential new customer, I want to see photos of the restaurant.
+    - Test Case
+- As a potential new customer, I want to find the restaurant contact information.
+    - Test Case
+- As a potential new customer, I want to reserve a table.
+    - Test Case
+- As a potential new customer, I want to find links to the restaurant's social media.
+    - Test Case
+- As a potential new customer, I want to be able to easily navigate the site regardless of the type of device I use.
+    - Test Case
+
+### Testing User Stories For Existing Customers
+
+- As an existing customer, I want to visit my favourite restaurant in a digital environment.
+    - Test Case
+- As an existing customer, I want to see if there are any new dishes introduced.
+    - Test Case
+- As an existing customer, I want to write a review about the restaurant.
+    - Test Case
+- As an existing customer, I want to reserve a table.
+    - Test Case
+
+### Further Testing
+
 ### Validation Services
 
 The services below were used to validate the HTML and CSS code in this project.
