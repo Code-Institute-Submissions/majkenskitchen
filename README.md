@@ -1,6 +1,6 @@
 # Majken's Kitchen
 
-![Test](assets/images/majkenskitchen.png)
+![Majken's Kitchen](assets/images/majkenskitchen.png)
 
 [Majken's Kitchen](https://mangez84.github.io/majkenskitchen/) offers a unique home dining experience with lovingly prepared dishes consisting of quality organic products, carefully selected from local suppliers.
 
@@ -123,6 +123,23 @@ The website was designed with the main goal of attracting new customers to the r
 
 ## Testing
 
+### Validation Services
+
+The services below were used to validate the HTML and CSS code in this project.
+
+- [W3C Markup Validation Service](https://validator.w3.org/)
+    - Results
+        - [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2F)
+        - [Menu Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fmenu.html)
+        - [About Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fabout.html)
+        - [Gallery Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fgallery.html)
+        - [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fcontact.html)
+
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+    - Results
+        - The CSS code was validated by pasting the contents from [style.css](assets/css/style.css) into the direct input tab on the validation page.
+        - Apart from warnings regarding vendor specific extensions the CSS code generated no errors when it was validated.
+
 ### Testing User Stories For New Customers
 
 - As a potential new customer, I want to find information about an environmentally friendly restaurant.
@@ -145,32 +162,22 @@ The website was designed with the main goal of attracting new customers to the r
 ### Testing User Stories For Existing Customers
 
 - As an existing customer, I want to visit my favourite restaurant in a digital environment.
-    - Test Case
+    - When customers browse the website, it is easy for them to find the gallery via the navigation bar.
+    - Customers can relive memories from the restaurant and have the opportunity to browse through the photos using the next / previous buttons.
+
 - As an existing customer, I want to see if there are any new dishes introduced.
-    - Test Case
+    - New dishes on the menu are marked with an icon in the form of an exclamation mark and a message to get the customer's attention.
+
+        ![New dish](assets/images/newdish.png)
+
 - As an existing customer, I want to write a review about the restaurant.
-    - Test Case
+    - The test could not be performed because this feature is not available in the current version of the site.
+    - When the next version of the website is released, this feature will be thoroughly tested.
+
 - As an existing customer, I want to reserve a table.
-    - Test Case
+    - Upon arrival at the website, there is a clear message with a call to action button encouraging the customer to reserve a table.
 
 ### Further Testing
-
-### Validation Services
-
-The services below were used to validate the HTML and CSS code in this project.
-
-- [W3C Markup Validation Service](https://validator.w3.org/)
-    - Results
-        - [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2F)
-        - [Menu Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fmenu.html)
-        - [About Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fabout.html)
-        - [Gallery Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fgallery.html)
-        - [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmangez84.github.io%2Fmajkenskitchen%2Fcontact.html)
-
-- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
-    - Results
-        - The CSS code was validated by pasting the contents from [style.css](assets/css/style.css) into the direct input tab on the validation page.
-        - Apart from warnings regarding vendor specific extensions the CSS code generated no errors when it was validated.
 
 ## Credits
 
