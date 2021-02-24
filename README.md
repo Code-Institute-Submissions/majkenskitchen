@@ -1,5 +1,7 @@
 # Majken's Kitchen
 
+![Test](assets/images/majkenskitchen.png)
+
 [Majken's Kitchen](https://mangez84.github.io/majkenskitchen/) offers a unique home dining experience with lovingly prepared dishes consisting of quality organic products, carefully selected from local suppliers.
 
 The website was designed with the main goal of attracting new customers to the restaurant, but is also available to give existing customers a digital experience of the restaurant.
