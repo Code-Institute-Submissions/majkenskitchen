@@ -143,7 +143,10 @@ The services below were used to validate the HTML and CSS code in this project.
 ### Testing User Stories For New Customers
 
 - As a potential new customer, I want to find information about an environmentally friendly restaurant.
-    - Test Case
+    - The hero image background is meant to give a feeling of a restaurant with healthy and organic food.
+    - The navigation bar is easy to find and the About link leads to more detailed information about the restaurant's environmentally friendly work.
+
+        ![About](assets/images/about.png)
 
 - As a potential new customer, I want to see a menu of the dishes and beverages.
     - Test Case
@@ -152,7 +155,10 @@ The services below were used to validate the HTML and CSS code in this project.
     - Test Case
 
 - As a potential new customer, I want to see photos of the restaurant.
-    - Test Case
+    - The gallery is accessible via the navigation bar and gives the customer the opportunity to browse through photos from the restaurant.
+    - Next / previous buttons are available for the customer to control which photo is displayed.
+
+        ![Gallery](assets/images/gallery.png)
 
 - As a potential new customer, I want to find the restaurant contact information.
     - Test Case
@@ -160,12 +166,12 @@ The services below were used to validate the HTML and CSS code in this project.
 - As a potential new customer, I want to reserve a table.
     - Upon arrival at the website, there is a clear message with a call to action button encouraging the customer to reserve a table.
 
-        ![New dish](assets/images/callout.png)
+        ![Callout button](assets/images/callout.png)
     
     - The call to action button links to the contact page where a form is available for the customer to fill in contact information and the desired date for the visit.
     - The fields for name, email and date are mandatory and generate a warning if they are not filled in correctly.
 
-        ![New dish](assets/images/reservationform.png)
+        ![Reservation form](assets/images/reservationform.png)
 
 - As a potential new customer, I want to find links to the restaurant's social media.
     - Links to social media can be found in the footer of each page.
