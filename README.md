@@ -172,7 +172,9 @@ The services below were used to validate the HTML and CSS code in this project.
     - All links to social media have been tested to ensure that they work and open up in a new tab.
 
 - As a potential new customer, I want to be able to easily navigate the site regardless of the type of device I use.
-    - Test Case
+    - The website has been tested on a number of different devices to ensure that navigation and all links work.
+    - Tests have been performed on a laptop, a laptop with larger screen and various smartphones where both Android and iPhone are included.
+    - Chrome Developer Tools have also been used to test the site's behaviour on different screen sizes.
 
 ### Testing User Stories For Existing Customers
 
