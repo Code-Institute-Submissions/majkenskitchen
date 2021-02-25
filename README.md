@@ -218,6 +218,43 @@ The services below were used to validate the HTML and CSS code in this project.
 
 - When using Internet Explorer 11 the footer is pushed up and is not sticky at the bottom anymore. The [bug](https://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/) is a combination of issues with the IE11 flexbox implementation and the min-height property of the flex container. A suggestion on how to solve this bug is to use a browser detector and use height instead of min-height for IE11.
 
+## Deployment
+
+### Github Pages
+
+Majken's Kitchen was deployed to GitHub Pages using the following procedure.
+
+- Log into [GitHub](https://github.com/) and click on the [repository](https://github.com/mangez84/majkenskitchen) named **majkenskitchen**.
+- Click on the **Settings** button in the repository navigation bar.
+- Scroll down until the **Github Pages** section is visible.
+- Under **Source** click the button named **None** and choose **master** in the dropdown menu.
+- Click the button named **Save**.
+- The page will refresh.
+- Scroll down to the **GitHub Pages** section again and you should now see a [link](https://mangez84.github.io/majkenskitchen/) to the published site.
+
+### Fork the GitHub Repository
+
+To make a **fork** of this repository to your own account use the following procedure.
+
+- Log into your [GitHub](https://github.com/) account and browse to [this repository](https://github.com/mangez84/majkenskitchen).
+- Locate the **Fork** button and click it.
+- You should now have a copy of the repository in your own account.
+
+### Clone the GitHub Repository
+
+To make a **clone** of this repository use the following procedure.
+
+- Log into your [GitHub](https://github.com/) account and browse to [this repository](https://github.com/mangez84/majkenskitchen).
+- Locate the **Code** button and click it.
+- Choose **Download ZIP** from the dropdown menu to download the project as a compressed file or copy the **HTTPS** link.
+- If you copied the HTTPS link open a terminal with access to [`git`](https://git-scm.com/).
+- Navigate to or create a desired working directory for the project.
+- Type **git clone** followed by the HTTPS link you copied.
+    ```
+    git clone https://github.com/mangez84/majkenskitchen
+    ```
+- Press Enter and a local clone will be created in your current working directory.
+
 ## Credits
 
 ### Code
