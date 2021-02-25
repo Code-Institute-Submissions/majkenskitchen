@@ -183,7 +183,7 @@ The services below were used to validate the HTML and CSS code in this project.
 
 - As a potential new customer, I want to be able to easily navigate the site regardless of the type of device I use.
     - The website has been tested on a number of different devices to ensure that navigation and all links work.
-    - Tests have been performed on a laptop, a laptop with larger screen and various smartphones where both Android and iPhone are included.
+    - Tests have been performed on a laptop, a laptop with a larger screen connected and various smartphones including both Android and iPhone devices.
     - Chrome Developer Tools have also been used to test the site's behaviour on different screen sizes.
 
 ### Testing User Stories For Existing Customers
@@ -205,6 +205,18 @@ The services below were used to validate the HTML and CSS code in this project.
     - Upon arrival at the website, there is a clear message with a call to action button encouraging the customer to reserve a table.
 
 ### Further Testing
+
+- The browsers Google Chrome, Mozilla Firefox, Microsoft Edge, Microsoft Internet Explorer 11 and Safari were used to test the website.
+- Tests have been performed on a laptop, a laptop with a larger screen connected and various smartphones including both Android and iPhone devices.
+- Friends and family members used their laptops and smartphones to test the website for bugs and other issues.
+- Tests to ensure the website's responsiveness were carried out continuously during the development work.
+- [WebAIM](https://webaim.org/resources/contrastchecker/) was used to check the contrast ratio of the colours used in the project.
+
+### Known Bugs
+
+#### Unsolved
+
+- When using Internet Explorer 11 the footer is pushed up and is not sticky at the bottom anymore. The [bug](https://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/) is a combination of issues with the IE11 flexbox implementation and the min-height property of the flex container. A suggestion on how to solve this bug is to use a browser detector and use height instead of min-height for IE11.
 
 ## Credits
 
