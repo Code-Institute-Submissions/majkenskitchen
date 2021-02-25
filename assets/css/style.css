@@ -216,10 +216,6 @@ html, body {
 
 .menu-notification {
     margin-top: 1em;
-    -webkit-transform: rotate(-15deg);
-    -moz-transform: rotate(-15deg);
-    -ms-transform: rotate(-15deg);
-    -o-transform: rotate(-15deg);
     transform: rotate(-15deg);
 }
 

@@ -138,7 +138,7 @@ The services below were used to validate the HTML and CSS code in this project.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
     - Results
         - The CSS code was validated by pasting the contents from [style.css](assets/css/style.css) into the direct input tab on the validation page.
-        - Apart from warnings regarding vendor specific extensions the CSS code generated no errors when it was validated.
+        - The CSS code generated no errors when it was validated.
 
 ### Testing User Stories For New Customers
 
