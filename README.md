@@ -161,7 +161,10 @@ The services below were used to validate the HTML and CSS code in this project.
         ![Gallery](assets/images/gallery.png)
 
 - As a potential new customer, I want to find the restaurant contact information.
-    - Test Case
+    - The contact page is easy to navigate to and contains the information the customer needs to contact the restaurant.
+    - An iframe with Google Maps embedded gives the customer the opportunity to see exactly where the restaurant is located.
+
+        ![Contact](assets/images/contact.png)
 
 - As a potential new customer, I want to reserve a table.
     - Upon arrival at the website, there is a clear message with a call to action button encouraging the customer to reserve a table.
