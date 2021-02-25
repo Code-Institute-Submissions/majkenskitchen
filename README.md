@@ -144,18 +144,32 @@ The services below were used to validate the HTML and CSS code in this project.
 
 - As a potential new customer, I want to find information about an environmentally friendly restaurant.
     - Test Case
+
 - As a potential new customer, I want to see a menu of the dishes and beverages.
     - Test Case
+
 - As a potential new customer, I want to see customer reviews.
     - Test Case
+
 - As a potential new customer, I want to see photos of the restaurant.
     - Test Case
+
 - As a potential new customer, I want to find the restaurant contact information.
     - Test Case
+
 - As a potential new customer, I want to reserve a table.
-    - Test Case
+    - Upon arrival at the website, there is a clear message with a call to action button encouraging the customer to reserve a table.
+
+        ![New dish](assets/images/callout.png)
+    
+    - The call to action button links to the contact page where a form is available for the customer to fill in contact information and the desired date for the visit.
+    - The fields for name, email and date are mandatory and generate a warning if they are not filled in correctly.
+
+        ![New dish](assets/images/reservationform.png)
+
 - As a potential new customer, I want to find links to the restaurant's social media.
     - Test Case
+
 - As a potential new customer, I want to be able to easily navigate the site regardless of the type of device I use.
     - Test Case
 
