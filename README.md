@@ -247,3 +247,9 @@ The services below were used to validate the HTML and CSS code in this project.
 - The photograph of the beer glass on the menu page was obtained from [Alexas_Fotos on Pixabay](https://pixabay.com/photos/beer-beer-garden-thirst-glass-mug-2288121/).
 - The photograph of the soft drinks on the menu page was obtained from [Photo Mix on Pixabay](https://pixabay.com/photos/drink-glass-lime-mint-cold-fresh-1532300/).
 - The photographs of customers on the about page was obtained from the developer's private photo album. All customers have approved the use of these photographs.
+
+### Acknowledgements
+
+- My Code Institute mentor Gerard McBride for valuable feedback and helpful mentor sessions.
+- My family because they let me use them as customers in this project.
+- My family and friends for much appreciated help with testing the website.
