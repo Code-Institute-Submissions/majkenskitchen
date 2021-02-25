@@ -250,6 +250,7 @@ To make a **clone** of this repository use the following procedure.
 - If you copied the HTTPS link open a terminal with access to [`git`](https://git-scm.com/).
 - Navigate to or create a desired working directory for the project.
 - Type **git clone** followed by the HTTPS link you copied.
+
     ```
     git clone https://github.com/mangez84/majkenskitchen
     ```
