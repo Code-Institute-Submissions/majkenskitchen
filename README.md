@@ -168,7 +168,8 @@ The services below were used to validate the HTML and CSS code in this project.
         ![New dish](assets/images/reservationform.png)
 
 - As a potential new customer, I want to find links to the restaurant's social media.
-    - Test Case
+    - Links to social media can be found in the footer of each page.
+    - All links to social media have been tested to ensure that they work and open up in a new tab.
 
 - As a potential new customer, I want to be able to easily navigate the site regardless of the type of device I use.
     - Test Case
