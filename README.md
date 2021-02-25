@@ -149,10 +149,11 @@ The services below were used to validate the HTML and CSS code in this project.
         ![About](assets/images/about.png)
 
 - As a potential new customer, I want to see a menu of the dishes and beverages.
-    - Test Case
+    - The menu is easily accessible from the navigation bar and provides information about the main dishes and beverages served in the restaurant.
 
 - As a potential new customer, I want to see customer reviews.
-    - Test Case
+    - When browsing to the About page customer reviews will be visible at the bottom of the page.
+    - A link to the restaurant on TripAdvisor is available in the footer.
 
 - As a potential new customer, I want to see photos of the restaurant.
     - The gallery is accessible via the navigation bar and gives the customer the opportunity to browse through photos from the restaurant.
